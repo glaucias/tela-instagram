@@ -1,2 +1,2 @@
 # tela-instagram
-Reciando tela Inicial Instagram
+Recriando tela Inicial do Instagram
